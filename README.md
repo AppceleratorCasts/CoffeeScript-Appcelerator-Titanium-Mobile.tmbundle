@@ -14,7 +14,7 @@ How to install
 How to use
 ---
 
-### Complete! ⌥⎋ *option-escape*
+### Complete! *control-space*
 The completion list contains all of the `Titanium` and `Ti` API.
 
 ### Tooltips! ⌥F1 
