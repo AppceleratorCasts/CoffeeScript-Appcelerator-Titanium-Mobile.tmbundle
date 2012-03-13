@@ -12,7 +12,7 @@ TextMate::Complete.new.complete!
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
-	<string>~</string>
+	<string>^ </string>
 	<key>name</key>
 	<string>Code Completion</string>
 	<key>output</key>
