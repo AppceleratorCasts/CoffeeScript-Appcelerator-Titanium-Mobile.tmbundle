@@ -4,8 +4,7 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>ti.js</string>
-		<string>js</string>
+		<string>coffee</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>(?x)^
@@ -35,7 +34,7 @@
 		</dict>
 		<dict>
 			<key>include</key>
-			<string>source.js</string>
+			<string>source.coffee</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
